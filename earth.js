@@ -1,8 +1,8 @@
 {
   "name": "Earth",
   "populations": [
-    "dinosaurs": 100+,
-    "asteroids": 0,
+    "dinosaurs": 500+,
+    "aliens": 300+,
     "mammoths": 0,
     "humans": 0,
   ]
