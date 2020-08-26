@@ -1,8 +1,9 @@
 {
   "name": "Earth",
   "populations": [
-    "dinosaurs": 500+,
-    "aliens": 300+,
+    "dinosaurs": 200+,
+    "snogdorfs": 200+,
+    "dinosaur-alien hybrids": 100+
     "mammoths": 0,
     "humans": 0,
   ]
