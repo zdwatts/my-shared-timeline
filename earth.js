@@ -2,8 +2,8 @@
   "name": "Earth",
   "populations": [
     "dinosaurs": 0,
-    "asteroids": 0,
-    "mammoths": 0,
-    "humans": 100+,
+    "snogdorfs": 0,
+    "snogosaurs": 100+
+    "humans": 500+
   ]
 }
